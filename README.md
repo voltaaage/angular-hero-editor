@@ -1,6 +1,6 @@
 # HeroEditor
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.4.
+This is the hero editor project that is built in the Angular 2.0 tutorial: https://angular.io/docs/ts/latest/tutorial/
 
 ## Development server
 
